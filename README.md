@@ -1,1 +1,3 @@
-<a href="http://edu.51cto.com/lecturer/user_id-7516873.html"><img src="images/little_soledede.jpg" alt="?????" style="max-width:100%;"></a>
+# 微信公众平台实战开发（JAVA）
+## 扫码关注[小虎AI珏爷]
+![小虎AI珏爷](./img/wechat.jpeg)
